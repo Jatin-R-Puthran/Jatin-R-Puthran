@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatin-R-Puthran (^~^)
 
-- 👀 I’m interested in Front-End Development and I love to make Clones of day-to-day applications like Zomato,Netflix,etc using HTML, CSS, JavaScript and BootStrap.
+- 👀 I’m interested in Front-End Development and I love to make Clones of day-to-day applications like Zomato, Netflix, e.t.c using HTML, CSS, JavaScript and BootStrap.
 
 - 👀 I am skiled C/C++ and Java Programming languages and I'm working upon my Data Structures and Algorithms on Leetcode, CodeChef and Codeforces bit by bit XD.
 
