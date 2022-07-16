@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jatin-R-Puthran (^~^)
 
-- 👀 I’m interested in Competitive Programming and i am skilled in Python, C and C++ Programming languages, Microsoft Word, Microsoft Excel, and excellent in Critical Thinking.
+- 👀 I’m interested in Front-End Development and I love to make Clones of day-to-day applications like Zomato,Netflix,etc using HTML, CSS, JavaScript and BootStrap.
+
+- 👀 I am skiled C/C++ and Java Programming languages and I'm working upon my Data Structures and Algorithms on Leetcode, CodeChef and Codeforces bit by bit XD.
 
 - 🌱 I’m currently in my final year of graduation from Indian Institute of Technology (Indian School of Mines), Dhanbad.
-
-- 📫 You can reach me out through my email (jatinrputhran7766@gmail.com)
 
 - 📫 My linkedin : www.linkedin.com/in/jatinrputhran7766
 
