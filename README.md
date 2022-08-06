@@ -1,8 +1,8 @@
                    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋;Welcome+to+My+Profile;My+name+is+Jatin+R+Puthran;Nice+to+meet+you+(^~^))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=30&center=true&lines=Hello+World+%F0%9F%91%8B;Welcome+to+My+Profile+;My+name+is+Jatin+R+Puthran+%F0%9F%98%84;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
-![Developer](https://user-images.githubusercontent.com/76581911/183236882-baf92baf-f8ac-4db6-97fd-bc915b2baf4c.gif)
+                             ![Developer](https://user-images.githubusercontent.com/76581911/183236882-baf92baf-f8ac-4db6-97fd-bc915b2baf4c.gif)
 
 
 - 👋 Hi, I’m @Jatin-R-Puthran (^~^)
